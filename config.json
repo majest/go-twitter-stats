@@ -1,0 +1,13 @@
+{	
+	"app" : {
+		"port" : "9001"
+	},
+	"db" : {
+		"hostname" : "localhost",
+		"name" : "twitter-stats"
+	}, 
+	"statsd" : {
+		"hostname" : "arturg.co.uk",
+		"port" : "8125"
+	}
+}
